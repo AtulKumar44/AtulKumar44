@@ -3,7 +3,7 @@
 <h3 align="center">A passionate backend developer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/5239dc62-bab4-4b30-ad69-3c7cce3ab926/adam_bidd_a_pixel_art_style_of_a__20_.png?t=1709202898">
 
-- 🌱 I’m currently learning **C language, Java & CSS**
+- 🌱 I’m currently learning **C language,C++, MySQL,Java & CSS**
 
 - 💬 Ask me about **BCA Student**
 
